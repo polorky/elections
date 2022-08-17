@@ -2,7 +2,7 @@ name: election_env
 channels:
   - defaults
 dependencies:
-  - pip=22.1.2=py310haa95532_0
+  - pip=22.1.2
   - pip:
     - anyio==3.6.1
     - babel==2.10.3
